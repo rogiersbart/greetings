@@ -3,15 +3,15 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/greetings/categories/</loc>
+    <loc>https://rogiersbart.github.io/greetings/categories/</loc>
   </url>
   
   <url>
-    <loc>/greetings/</loc>
+    <loc>https://rogiersbart.github.io/greetings/</loc>
   </url>
   
   <url>
-    <loc>/greetings/tags/</loc>
+    <loc>https://rogiersbart.github.io/greetings/tags/</loc>
   </url>
   
 </urlset>
