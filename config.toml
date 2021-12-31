@@ -15,7 +15,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "\\.knit\\.md$", "\\.utf8\\.md$", "_c
 [params]
     # Meta
     title = "<img src='logo.png' style='height:15rem;'><br>[greetings](https://rogiersbart.github.io/greetings)"
-    subtitle = "Our yearly season's greetings cards<br><button style='background-color:#f8f8f8;border: 1px solid #e7e7e7;padding: 0.375rem 0.75rem;font-size: 1rem;line-height: 1.5;border-radius: 0.25rem;cursor: pointer;'>[rogiersbart.github.io](https://rogiersbart.github.io/)</button>"
+    subtitle = "Our yearly season's greetings cards"
     author = "Bart Rogiers [rogiersbart]"
     description = ""
     keywords = ""
