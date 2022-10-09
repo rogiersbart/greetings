@@ -1,0 +1,25 @@
+---
+title: "Greetings"
+format:
+  revealjs:
+    width: 1920
+    height: 1080
+    menu: false
+    progress: false
+    auto-slide: 5000
+    loop: true
+    transition: fade
+    transition-speed: slow
+    background-transition: fade
+    title-slide-attributes:
+      data-background-image: https://drive.google.com/uc?export=view&id=14-tWN_5U70iEoWy3vFKUsthPI0jFtwor
+      data-background-size: 40%
+    theme: [default, custom.scss]
+    header-includes: <link href="https://drive.google.com/uc?export=view&id=1CnvJ3Y4tolbBAXnqqQmaTolqAw83JdF5" rel="icon" type="image/png">
+---
+
+```{r}
+#| cache: true
+#| output: asis
+bro::drive_gallery("art/project/greetings")
+```
