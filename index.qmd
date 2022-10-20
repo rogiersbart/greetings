@@ -18,6 +18,27 @@ format:
     header-includes: <link href="https://drive.google.com/uc?export=view&id=1CnvJ3Y4tolbBAXnqqQmaTolqAw83JdF5" rel="icon" type="image/png">
 ---
 
+## {.center}
+
+<div style="text-align:center">
+<b>Greetings</b>
+
+Our yearly season's greetings cards
+  
+<small>[CC BY 4.0](https://creativecommons.org/licenses/by/4.0) by [Bart Rogiers](https://rogiersbart.github.io)</small>
+</div>
+
+::: {.notes}
+This project is the result of a yearly tradition, which started in 2011. I did
+discover digital painting in 2008 already, but it took me three years to create
+a digitally painted season's greetings card for the first time. Ever since, I
+try creating one each year, with a little stop-motion excursion for 2015 (not
+included here). In most cases, I try to do something with animals, hinting at
+some moments and important steps in my family's lives. All these are created
+with a first-gen small Wacom Bamboo fun drawing tablet, in the first few years
+with MyPaint and GIMP, but since 2016 with Krita.
+:::
+
 ```{r}
 #| cache: true
 #| output: asis
