@@ -40,7 +40,6 @@ with MyPaint and GIMP, but since 2016 with Krita.
 :::
 
 ```{r}
-#| cache: true
-#| output: asis
+#| results: asis
 bro::drive_gallery("art/project/greetings")
 ```
