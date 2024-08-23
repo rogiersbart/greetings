@@ -12,10 +12,10 @@ format:
     transition-speed: slow
     background-transition: fade
     title-slide-attributes:
-      data-background-image: https://drive.google.com/uc?export=view&id=14-tWN_5U70iEoWy3vFKUsthPI0jFtwor
+      data-background-image: images/greetings.png
       data-background-size: 40%
     theme: [default, custom.scss]
-    header-includes: <link href="https://drive.google.com/uc?export=view&id=1CnvJ3Y4tolbBAXnqqQmaTolqAw83JdF5" rel="icon" type="image/png">
+    header-includes: <link href="images/greetings-icon.png" rel="icon" type="image/png">
 ---
 
 ## {.center}
